@@ -1,0 +1,53 @@
+a{
+    padding: 10px 20px;
+    text-decoration: none;
+}
+.navbar{
+    padding: 20px;
+    background-color:#4ec2fc ;
+    color:#3f72a1;
+    font-size: 20px;
+    font-family: "Trirong", serif;
+    margin-top: 0px;
+}
+    
+.image{
+    width: 400px;
+    height: 400px;
+    margin-left: 35%;
+    margin-right: 50%;
+    text-align: center;
+
+}
+.name{
+    text-align: center;
+}
+body{
+ background-color:#CCF3EE;
+}
+h1{
+    font-family:Italianno;
+    text-align: center;
+    font-size: 70px;
+    color: #61A4BC;
+    
+}
+.menu{
+    font-family: Georgia, serif;
+    font-size: 20px;
+    padding-bottom: 10px;
+    font-style: italic;
+    color: #1ba9f0;
+}
+.name{
+    color: #61A4BC;
+  font-family: Georgia, serif;
+  font-size: 30px;
+  padding-bottom: 10px;
+  line-height: 2;
+  font-style: oblique;
+
+}
+a:hover{
+    color: black;
+}
